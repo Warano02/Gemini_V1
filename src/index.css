@@ -11,3 +11,7 @@
   min-height: 100vh;
   display: flex;
 }
+:root{
+  --white:#f0f4f9;
+  --del:#e6eaf1;
+}
